@@ -29,6 +29,7 @@ function draw() {
   text("Display Width is " + displayWidth, width/2, 80);
   text("Window Height is " + displayHeight, width/2, 95);
    text("Touches Length is " + touches.length,width/2, 110);
+   text("new",width/2, 130)
  //sun
   fill("yellow");
   circle(width-(width-50),50,60);
