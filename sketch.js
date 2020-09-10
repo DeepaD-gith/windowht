@@ -51,6 +51,6 @@ function draw() {
   
   drawSprites();
 }
- function windowResized() {
-  resizeCanvas(windowWidth, windowHeight,false);
-}
+//  function windowResized() {
+//   resizeCanvas(windowWidth, windowHeight,false);
+// }
